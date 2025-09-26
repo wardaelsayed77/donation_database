@@ -82,5 +82,5 @@ Content: Project idea, workflow, and objectives
 
 🤝 Integration with payment gateways for online donations
 
-git clone https://github.com/YourUsername/SoulAid.git
+git clone https://github.com/wardaelsayed77/donation_database.git
 cd SoulAid
